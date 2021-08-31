@@ -1,1 +1,1 @@
-discord.py, asycnio
+discord.py, asyncio
